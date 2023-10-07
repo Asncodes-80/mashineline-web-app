@@ -1,0 +1,513 @@
+{
+  "sampleContent": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد.",
+  "navBarItems": {
+    "home": "خانه",
+    "categories": "دسته‌بندی ها",
+    "ads": "افزودن آگهی",
+    "saved": "ذخیره شده",
+    "me": "من"
+  },
+  "searchBar": {
+    "title": "  اینجا میتونی دنبال ماشین بگردی..."
+  },
+  "app": {
+    "splash": {
+      "internetConnection": " لطفا وی پی ان خود را خاموش کنید و از اتصال به اینترنت مطمین شوید",
+      "networkError": "خطای اینترنت",
+      "disableNetwork": "شما به اینترنت دسترسی ندارد. مجددا تلاش کنید"
+    },
+    "home": {
+      "machines": {
+        "newAds": {
+          "title": "کاربران تبلیغات جدید خود را اضافه کردند",
+          "more": "آگهی دیگر را مشاهده کنید {count}"
+        }
+      },
+      "auctions": {
+        "title": " مزایدههای اخیر",
+        "more": "{count} مزایده دیگر را مشاهده کنید"
+      },
+      "makes": {
+        "title": "محبوب ترین برندها"
+      }
+    },
+    "categories": {
+      "appBar": {
+        "title": "دسته‌بندی‌ها",
+        "searchLabel": "جست و جوی دسته‌بندی"
+      },
+      "title": "ماشین های ساخت و ساز و تجهیزات صنعتی",
+      "infoAboutHugeData": "در دیتابیس ما {adsCount} آگهی از ماشین های مختلف وجود داره",
+      "categoriesItem": {
+        "agricultural": "تجهیزات کشاورزی",
+        "forklift": "تجهیزات لیفتراک",
+        "port_equipment": "تجهیزات بندری",
+        "special_dumper": "دامپر مخصوص",
+        "construction": "تجهیزات ساختمانی",
+        "industrial": "تجهیزات صنعتی",
+        "quarry_machinery": "ماشین آلات معدن",
+        "trucks_and_buses": "کامیون و اتوبوس",
+        "crones": "جرثقیل‌ها",
+        "road_construction": "تجهیزات راه‌سازی",
+        "crushing_equipment": "تجهیزات سنگ‌شکن",
+        "mining_equipment": "تجهیزات معدن",
+        "rollers": "تجهیزات غلتکی",
+        "drilling_machinery": "ماشین آلات حفاری",
+        "municipal_vehicles": "خودروهای شهرداری",
+        "spare_part": "قطعات یدکی"
+      },
+      "subCategoryItem": {
+        "machine": {
+          "title": "۲۰۱۳ CASE IH Tractors کارکرده",
+          "description": "STEUGER 459 QUADTRAC",
+          "currency": " تومان",
+          "country": "ایران",
+          "city": "تهران"
+        }
+      },
+      "machineDetails": {
+        "summaryMachineFeatures": {
+          "category": "تجهیزات معدن / ماشین های حفاری",
+          "title": "جدید nR324 drilling rig",
+          "subTitle": "SYMMETRIX R324",
+          "currency": " تومان",
+          "comments": "نطر"
+        },
+        "description": {
+          "title": "توضیحات",
+          "content": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است، چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است، و برای شرایط فعلی تکنولوژی مورد نیاز، و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد، کتابهای زیادی در شصت و سه درصد گذشته حال و آینده، شناخت فراوان جامعه و متخصصان را می طلبد، تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی، و فرهنگ پیشرو در زبان فارسی ایجاد کرد، در این صورت می توان امید داشت که تمام و دشواری موجود در ارائه راهکارها، و شرایط سخت تایپ به پایان رسد.",
+          "introduce": "معرفی",
+          "make_reviews": "بررسی کنید"
+        },
+        "specification": {
+          "title": "مشخصات",
+          "list": {
+            "mining": "معدن",
+            "drilling": "حفاری",
+            "new": "جدید",
+            "year": "1402",
+            "symmetry": "تقارن"
+          }
+        },
+        "similarMachines": {
+          "title": "ماشین های مشابه",
+          "machine": {
+            "title": "VERMEER D40x55S3",
+            "description": "کارکرده horizontal drilling rig",
+            "currency": " تومان"
+          }
+        },
+        "comments": {
+          "title": "نظرات",
+          "date": "23 مرداد",
+          "commentTitle": "عنوان نظر",
+          "name": "مهسا",
+          "yourComment": "نظر شما",
+          "listTile": {
+            "title": "نظر خود را بنویسید",
+            "body": "شما می توانید نظر خود را در مورد این ماشین بنویسید. نظر شما پس از تایید مدیر منتشر خواهد شد."
+          }
+        },
+        "bottomBar": {
+          "fabLabel": "خرید",
+          "toolTips": {
+            "phone": "شماره تماس",
+            "email": "آدرس پست الکترونیکی",
+            "message": "ارسال پیامک"
+          }
+        }
+      },
+      "machineReview": {
+        "tabs": {
+          "tab1": "معرفی",
+          "tab2": "بررسی از شرکت سازنده"
+        }
+      },
+      "writeComment": {
+        "title": "نظر خود را بنویسید",
+        "parameterList": {
+          "param1": "پارامتر 1",
+          "param2": "پارامتر 2",
+          "param3": "پارامتر 3",
+          "param4": "پارامتر 4",
+          "param5": "پارامتر 5"
+        },
+        "textFields": {
+          "commentTitle": {
+            "labelText": "عنوان نظر",
+            "hintText": " عنوان نظر را اینجا بنویسید"
+          },
+          "commentContent": {
+            "labelText": "نظر",
+            "hintText": "بدنه اصلی نظر را اینجا بنویسید"
+          }
+        }
+      }
+    },
+    "advertisement": {
+      "yourAds": {
+        "appBar": {
+          "title": "آگهی های جدید"
+        },
+        "buttonLabel": "افزودن آگهی جدید"
+      },
+      "appBar": {
+        "title": "ثبت آگهی"
+      },
+      "switchButton": {
+        "visibleDetails": "نمایش جزئیات هر دسته بندی",
+        "hideDetails": "مخفی کردن جزئیات هر دسته بندی"
+      },
+      "categoriesItem": {
+        "construction": {
+          "title": "تجهیزات ساخت و ساز",
+          "description": "بیل مکانیکی، تجهیزات راهسازی، لودرهای ساختمانی، قطعات یدکی، غلتک ساختمانی، جرثقیل، ماشین آلات حفاری"
+        },
+        "agricultural": {
+          "title": "تجهیزات کشاورزی"
+        },
+        "forklift": {
+          "title": "لیفتراک"
+        },
+        "materialHandling": {
+          "title": "ماشین آلات جا به جا کننده"
+        },
+        "mining": {
+          "title": "ماشین آلات و تجهیزات معادن"
+        },
+        "industrial": {
+          "title": "ماشین آلات و تجهیزات صنعتی"
+        },
+        "municipalVehicles": {
+          "title": "ماشین آلات شهرداری"
+        },
+        "spareParts": {
+          "title": "تجهیزات و قطعات یدکی"
+        }
+      },
+      "subCategoriesItem": {
+        "excavator": "بیل مکانیکی",
+        "roadConstruction": "تجهیزات راهسازی",
+        "constructionLoaders": "لودرهای ساختمانی",
+        "constructionParts": "قطعات یدکی ساختمانی",
+        "constructionRollers": "غلتک ساختمانی",
+        "crones": "جرثقیل",
+        "drillingMachinery": "ماشین آلات حفاری"
+      },
+      "selectedCategory": " دسته بندی",
+      "photoGrid": {
+        "title": "اضافه کردن تصویر",
+        "content": "تصاویر ماشین خود را جهت آگهی اضافه کنید. این کار به آگهی شما کمک می‌کند که کاربران بتوانند بهتر محصول شما را بشناسند.",
+        "imageLabel": "تصویر {imageNumber}",
+        "addImage": "افزودن تصویر"
+      },
+      "adMeta": {
+        "adTitleFiled": {
+          "label": "عنوان آگهی",
+          "placeholder": "آگهی شما چیست"
+        },
+        "adDescriptionField": {
+          "label": "توضیحات  آگهی",
+          "placeholder": " توضیحات  آگهی"
+        }
+      },
+      "imageBottomSheet": {
+        "headline": {
+          "title": "انتخاب تصویر",
+          "description": "تصویری با کیفیت بالا در مورد دستگاه خود انتخاب کنید، می تواند قابل کلیک تر به نظر برسد."
+        },
+        "mediaOption": {
+          "album": "انتخاب تصویر از آلبوم",
+          "camera": "عکس گرفتن"
+        }
+      },
+      "productStatus": "وضعیت محصول",
+      "listTile": {
+        "pricePoint": "قیمت پایه",
+        "model": "مدل",
+        "phone": "شماره تماس",
+        "brand": "نام تجاری",
+        "features": "ویژگی‌ها",
+        "location": " موقعیت مکانی"
+      },
+      "dialogs": {
+        "pricePoint": {
+          "title": "قیمت اصلی",
+          "content": "اطلاعاتی که باید از سمت سرویس دهنده ارسال شود جهت توجه در محتوای توضیح قیمت محصول."
+        },
+        "phone": {
+          "title": "تلفن شما",
+          "fieldLabel": "تلفن"
+        }
+      },
+      "modelBottomSheet": {
+        "title": "مدل (سال ساخت)"
+      },
+      "location": {
+        "appBar": {
+          "title": "ثبت موقعیت مکانی"
+        },
+        "methodOfSend": {
+          "title": "موقعیت مکانی خود را مشخص کنید",
+          "content": "مکان خود را با دو روش انتخاب کنید که می توانید موقعیت مکانی خود را به صورت ایستا تعریف کنید یا آدرس را با نقشه تعریف کنید"
+        },
+        "static": {
+          "city": "شهر",
+          "state": "وضعیت",
+          "select": " انتخاب"
+        },
+        "map": {
+          "title": "تعریف موقعیت مکانی با نقشه",
+          "content": "باز کردن نقشه برای انتخاب مکان",
+          "mapLabel": "نقشه آنلاین را باز کنید تا موقعیت مکانی خود را بر اساس طول و عرض جغرافیایی به راحتی انتخاب کنی"
+        }
+      }
+    },
+    "saved": {
+      "appBar": {
+        "title": "ذخیره شده‌ها"
+      }
+    },
+    "profile": {
+      "appBar": {
+        "title": "پروفایل",
+        "languages": "زبان ها"
+      },
+      "settings": {
+        "appBar": {
+          "title": "تنظیمات"
+        },
+        "listTiles": {
+          "privacy": "حریم خصوصی",
+          "terms": "شرایط و ضوابط",
+          "languages": "تغییر زبان",
+          "darkModeSwitch": "تغییر برنامه به حالت تاریک"
+        }
+      },
+      "profileItem": {
+        "commentsReview": " نظرات",
+        "account": "حساب کاربری",
+        "notifications": "اعلان ها",
+        "manageWallet": " مدیریت کیف پول",
+        "thirdAuctions": "مزایده های شخص ثالث",
+        "moneyTransactions": " تراکنش های مالی "
+      },
+      "thirdPartyAuctions": {
+        "appBar": {
+          "title": "مزایده های شخص ثالث"
+        },
+        "title": "مزایده های شخص ثالث",
+        "content": "لینک مزایده خارجی زیر را وارد کنید تا اپراتور ما آن را بررسی کرده و سپس با شما تماس بگیرد",
+        "field": {
+          "auctionLink": " لینک مزایده"
+        }
+      },
+      "moneyTransactions": {
+        "wallet": {
+          "headline": " تراکنش های اخیر",
+          "buttons": {
+            "budgetIncrease": " اعتبار خود را افزایش دهید",
+            "allTransactions": "مشاهده تمام تراکنش‌ها"
+          }
+        },
+        "list": {
+          "type": {
+            "deposit": "واریز به حساب",
+            "withdrawal": "برداشت از حساب"
+          },
+          "time": " دیروز 12:32",
+          "emptyState": {
+            "title": "فاقد تراکنش",
+            "content": "شما هیچ تراکنشی در حساب خود نداشته اید"
+          }
+        },
+        "increaseBudget": {
+          "appBar": {
+            "title": "افزایش موجودی"
+          },
+          "headline": "مبلغ مورد نظر خود را وارد کنید",
+          "field": {
+            "priceValidation": "مبلغ شما باید بین 50 میلیون تومان تا 12 میلیارد تومان باشد"
+          },
+          "continue": "ادامه"
+        }
+      }
+    },
+    "auctionsTab": {
+      "appBar": {
+        "title": "مزایده های اخیر"
+      },
+      "tabs": {
+        "external": "مزایده‌های شخص ثالث",
+        "nozhan": "نوژان"
+      },
+      "currency": " تومان",
+      "externalItem": {
+        "title": "STEUGER 459 QUADTRAC",
+        "currency": "تومان",
+        "popupMenuItem": {
+          "showDetails": "نمایش جزییات ماشین",
+          "nozhanFollowingUp": "پیگیری از سمت نوژان"
+        }
+      },
+      "nozhanItem": {
+        "title": "STEUGER 459 QUADTRAC",
+        "subTitle": "۲۰۲۳ CASE IH Tractors"
+      }
+    },
+    "auth": {
+      "authentication": {
+        "headline": "ثبت ‌نام | ورود",
+        "title": "خوش آمدید",
+        "subtitle": "برای ورود به حساب کاربری، شماره تلفن خود را وارد کنید",
+        "field": {
+          "phone": "شماره تلفن"
+        },
+        "unauthenticated": {
+          "warning": "شما یک مهمان هستید، بدون عضویت یا ورود \n نمی توانید آگهی اضافه کنید"
+        },
+        "dialogs": {
+          "error": {},
+          "info": {}
+        },
+        "snackBar": {},
+        "buttons": {
+          "auth": "ورود به حساب کاربری"
+        }
+      },
+      "verification": {
+        "appBar": {
+          "title": "تایید ورودی"
+        },
+        "title": "کد یکبار مصرف را وارد کنید",
+        "subtitle": "ما یک کد یکبار مصرف به شماره تلفن {phone} ارسال کرده‌ایم",
+        "sendAgain": {
+          "timeout": "{timeout} ثانیه دیگر می‌توانید دوبار درخواست کد کنید",
+          "new": "ارسال مجدد کد یکبار مصرف"
+        },
+        "button": {
+          "verify": "تایید"
+        }
+      },
+      "confirmation": {
+        "appBar": {
+          "title": "اطلاعات اولیه حساب کاربری"
+        },
+        "headline": "فرم زیر را در مورد خود با دقت پر کنید",
+        "fields": {
+          "name": {
+            "label": "نام",
+            "validations": {
+              "min": "",
+              "max": ""
+            }
+          },
+          "family": {
+            "label": "نام خانوادگی",
+            "validations": {
+              "min": "",
+              "max": ""
+            }
+          },
+          "nationalCode": {
+            "label": "شناسه ملی",
+            "validations": {
+              "min": "",
+              "max": "",
+              "regex": ""
+            }
+          }
+        },
+        "fab": "تایید حساب کاربری و اتمام ثبت ‌نام"
+      }
+    },
+    "filter": {
+      "status": "وضعیت ماشین",
+      "year": "سال",
+      "min": "کمترین",
+      "max": "بیشترین",
+      "movementType": "نوع وسیله",
+      "standard": "استاندارد",
+      "big": "بزرگ",
+      "small": "کوچک",
+      "select_make": "انتخاب شرکت سازنده",
+      "keywords": "کلمات کلیدی",
+      "category": {
+        "title": "دسته بندی محصول",
+        "selectedCategory": "جرثقیل"
+      },
+      "brand": {
+        "title": " برند",
+        "selectedBrand": "KUBOTA"
+      },
+      "advanceFilter": "فیلتر پیشرفته",
+      "title": "فیلترها",
+      "filters": "فیلترها",
+      "wheeled": "Wheeled",
+      "tracked": "Tracked",
+      "selectMake": "انتخاب شرکت سازنده",
+      "sellerType": {
+        "title": "نوع فروش",
+        "dealer": "فروشنده",
+        "private": "شخصی",
+        "all": "همه"
+      },
+      "filterResult": {
+        "numResult": "{count} محصول یافت شد",
+        "chipItem": {
+          "drilling": "حفاری",
+          "new": "جدید",
+          "selectedYearRange": "محدوده سال ساخت"
+        }
+      },
+      "price": "قیمت",
+      "removeFilters": "حذف فیلترها",
+      "buttons": {
+        "filter": " انجام فیلتر"
+      }
+    }
+  },
+  "global": {
+    "actions": {
+      "tryAgain": "تلاش مجدد",
+      "readMore": " توضیحات بیشتر",
+      "more": "بیشتر",
+      "seeAll": "دیدن همه",
+      "refresh": "تازه سازی",
+      "next": "بعدی",
+      "approve": "تایید",
+      "send": "ارسال",
+      "sent": "ارسال شد",
+      "cancel": "لغو",
+      "ignore": "صرف نظر کردن",
+      "confirm": "تایید"
+    },
+    "structures": {
+      "notImplemented": "Wip"
+    },
+    "machinesStatus": {
+      "used": "کارکرده",
+      "new": "جدید",
+      "all": "همه"
+    },
+    "bookmarkStatus": {
+      "saved": "دخیره شده",
+      "unSaved": "ذخیره نشده"
+    },
+    "dialogButton": {
+      "approve": "تایید",
+      "close": "بستن"
+    },
+    "size": {
+      "title": "اندازه",
+      "standard": " استاندارد",
+      "big": "بزرگ",
+      "small": "کوچک"
+    }
+  },
+  "system": {
+    "languages": {
+      "selectedLanguage": "فارسی"
+    }
+  }
+}

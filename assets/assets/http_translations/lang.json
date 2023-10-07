@@ -1,0 +1,10 @@
+{
+  "data": {
+    "en": {
+    "sample": "Sample message from http"
+  },
+    "fa": {
+      "sample": "پیام نمونه از سرور "
+    }
+  }
+}
